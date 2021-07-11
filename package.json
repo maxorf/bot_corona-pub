@@ -1,0 +1,16 @@
+{
+  "name": "corona-pub",
+  "version": "1.0.0",
+  "description": "Un bot pour l eserveur Corona Pub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RenardNocturne",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "nodemon": "^2.0.9",
+    "quick.db": "^7.1.3"
+  }
+}
