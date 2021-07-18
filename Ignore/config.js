@@ -1,3 +1,3 @@
 module.exports = {
-    TOKEN: "ODYwNTcxMDg2NjcxNzA4MTYy.YN9LRw.Z8WJLEt8kFterrDxHXr785sNoa4",
+    TOKEN: "process.env.ODYwNTcxMDg2NjcxNzA4MTYy.YN9LRw.BIDWuXaoQyqD05_7GueljKjz9SI",
     PREFIX: '&'}
